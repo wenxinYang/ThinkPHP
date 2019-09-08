@@ -56,6 +56,7 @@ class IndexController extends Controller {
             $user = M('lianxi');
             $in["name"] = $_POST["data1"];
             $in["sex"] = $_POST['data2'];
+//            var_dump($in);exit;
             $info = $user->add($in);
             if($info){
                 $this->success("插入数据成功",'select');
