@@ -1,0 +1,7 @@
+资源文件目录
+
+军哥团
+https://oapi.dingtalk.com/robot/send?access_token=df26455789934255e45331ce9abf2d0d15deac6183fc61b865636f50ce89ca17
+
+置顶群
+https://oapi.dingtalk.com/robot/send?access_token=790fa38a58ca2617340ea311718ecf07efb4f9aa07582d1535ba772674f0c38f

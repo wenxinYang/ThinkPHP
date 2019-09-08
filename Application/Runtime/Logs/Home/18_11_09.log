@@ -1,0 +1,12 @@
+[ 2018-11-09T17:33:26+08:00 ] ::1 /ThinkPHP/index.php/Home/Index/10
+ERR: 非法操作:10
+
+[ 2018-11-09T17:34:15+08:00 ] ::1 /ThinkPHP/index.php/Home/Index/1
+ERR: 非法操作:1
+
+[ 2018-11-09T17:34:31+08:00 ] ::1 /ThinkPHP/index.php/Home/Index/1
+ERR: 非法操作:1
+
+[ 2018-11-09T17:36:47+08:00 ] ::1 /ThinkPHP/index.php/Home/Index/1
+ERR: 非法操作:1
+

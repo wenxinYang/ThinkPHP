@@ -1,0 +1,25 @@
+<?php if (!defined('THINK_PATH')) exit();?><!doctype html>
+<html>
+<head>
+    <title>插入数据</title>
+
+    <script>
+        function del(){
+            var obj=document.getElementById('data1');
+            obj.setAttribute("value",""); //这句是关键
+        }
+        function del1(){
+            var obj1=document.getElementById('data2');
+            obj1.setAttribute("value",""); //这句是关键
+        }
+    </script>
+</head>
+<body>
+<form action="<?php echo U('inset');?>" method="post" id="form" name="form">
+    <input type="text" id="data1" name="data1" value="<?php echo $data{'name'} ?>" onfocus="del()"/>
+    <input type="text" id="data2" name="data2" value="<?php echo $data{'sex'} ?>" onfocus="del1()"/>
+    <input type="submit" value="保存" id="save" name="save">
+    <!--<input type="button" value="查询" id="select" name="select" onclick="{U:('select')}"> -->
+</form>
+</body>
+</html>

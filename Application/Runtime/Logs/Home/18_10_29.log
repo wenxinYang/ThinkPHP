@@ -1,0 +1,115 @@
+[ 2018-10-29T10:09:01+08:00 ] ::1 /ThinkPHP/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-10-29T10:25:37+08:00 ] ::1 /ThinkPHP/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: errorno test
+
+[ 2018-10-29T10:27:28+08:00 ] ::1 /ThinkPHP/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-10-29T10:55:47+08:00 ] ::1 /ThinkPHP/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: test_test_test_exception
+
+[ 2018-10-29T10:56:02+08:00 ] ::1 /ThinkPHP/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: test_test_test_exception
+
+[ 2018-10-29T10:56:08+08:00 ] ::1 /ThinkPHP/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: test_test_test_exception
+
+[ 2018-10-29T10:58:46+08:00 ] ::1 /ThinkPHP/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+ERR: test_log
+
+[ 2018-10-29T11:05:51+08:00 ] ::1 /ThinkPHP/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: test_log
+
+[ 2018-10-29T11:09:12+08:00 ] ::1 /ThinkPHP/
+WARN: 测试日志信息，这是警告级别，并且实时写入
+[ 2018-10-29T11:09:12+08:00 ] ::1 /ThinkPHP/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+
+[ 2018-10-29T11:13:58+08:00 ] ::1 /ThinkPHP/
+WARN: 测试日志信息，这是警告级别，并且实时写入
+[ 2018-10-29T11:13:58+08:00 ] ::1 /ThinkPHP/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-10-29T11:14:11+08:00 ] ::1 /ThinkPHP/
+WARN: 测试日志信息，这是警告级别，并且实时写入
+[ 2018-10-29T11:14:11+08:00 ] ::1 /ThinkPHP/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-10-29T14:30:32+08:00 ] ::1 /ThinkPHP/
+ERR: 系统不支持:Xcache
+
+[ 2018-10-29T17:50:42+08:00 ] ::1 /ThinkPHP/Home?a=getInfo
+ERR: 非法操作:index
+
+[ 2018-10-29T17:58:28+08:00 ] ::1 /ThinkPHP/index.php?modul=Home&controller=Inde&action=getInfo
+ERR: 无法加载控制器:Inde
+
+[ 2018-10-29T19:28:47+08:00 ] ::1 /ThinkPHP/index.php?modul=Home&controller=view&action=getInfo
+ERR: 无法加载控制器:View
+
+[ 2018-10-29T19:29:22+08:00 ] ::1 /ThinkPHP/Home/View/Index/getInfo.html
+ERR: 无法加载控制器:View
+
+[ 2018-10-29T19:30:23+08:00 ] ::1 /ThinkPHP/Home/getInfo.html
+ERR: 无法加载控制器:GetInfo
+
+[ 2018-10-29T19:37:11+08:00 ] ::1 /ThinkPHP/Home/getInfo.html
+ERR: 无法加载控制器:GetInfo
+
+[ 2018-10-29T19:37:36+08:00 ] ::1 /ThinkPHP/Home/View/getInfo.html
+ERR: 无法加载控制器:View
+
+[ 2018-10-29T19:37:42+08:00 ] ::1 /ThinkPHP/Home/view/getInfo.html
+ERR: 无法加载控制器:View
+
+[ 2018-10-29T19:38:29+08:00 ] ::1 /ThinkPHP/Home/getInfo.html
+ERR: 无法加载控制器:GetInfo
+
+[ 2018-10-29T19:38:41+08:00 ] ::1 /ThinkPHP/Home/Vies/getInfo.html
+ERR: 无法加载控制器:Vies
+
+[ 2018-10-29T19:38:48+08:00 ] ::1 /ThinkPHP/Home/View/getInfo.html
+ERR: 无法加载控制器:View
+
+[ 2018-10-29T19:42:27+08:00 ] ::1 /ThinkPHP/Home/index.php
+ERR: 无法加载控制器:Index.php
+
+[ 2018-10-29T19:43:31+08:00 ] ::1 /ThinkPHP/Home/index.php
+ERR: 无法加载控制器:Index.php
+
+[ 2018-10-29T19:43:43+08:00 ] ::1 /ThinkPHP/index.php/Home/Index/select.html
+ERR: 模板不存在:./Application/Home/View/Index/select.html
+
+[ 2018-10-29T19:58:58+08:00 ] ::1 /ThinkPHP/index.php/Home/select
+ERR: 无法加载控制器:Select
+

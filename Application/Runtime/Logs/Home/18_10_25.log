@@ -1,0 +1,10 @@
+[ 2018-10-25T10:19:26+08:00 ] ::1 /ThinkPHP/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2018-10-25T10:25:25+08:00 ] ::1 /ThinkPHP/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
