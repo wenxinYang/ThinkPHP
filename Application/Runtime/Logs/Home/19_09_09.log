@@ -25,3 +25,6 @@ ERR: _STORAGE_WRITE_ERROR_:./Application/Runtime/Cache/Home/9c8170060125acfdd415
 [ 2019-09-09T00:42:56+08:00 ] ::1 /ThinkPHP/index.php/Home/Index/index.html
 ERR: _STORAGE_WRITE_ERROR_:./Application/Runtime/Cache/Home/9c8170060125acfdd4151ffd1e561cdf.php
 
+[ 2019-09-09T00:45:28+08:00 ] ::1 /ThinkPHP/index.php/Home/Index/index.html
+ERR: _STORAGE_WRITE_ERROR_:./Application/Runtime/Cache/Home/9c8170060125acfdd4151ffd1e561cdf.php
+
